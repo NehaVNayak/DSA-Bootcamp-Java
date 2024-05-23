@@ -203,3 +203,6 @@
 - NP-Completeness
 - Multithreading
 - Square Root Decomposition
+
+
+then u can practice some coding questions on leetcode
